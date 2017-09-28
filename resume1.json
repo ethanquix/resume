@@ -6,7 +6,7 @@
     "email": "dimitriwyzlic@gmail.com",
     "phone": "(+33)762876958",
     "website": "http://dimitriwyzlic.com",
-    "summary": "I am in love with everything related to IA and Machine Learning. I hope to have an opportunity to be part of an Inria Research Team during my 6 month internship",
+    "summary": "Dimitri is a young french guy which interest himself about many things. In fact, he thinks an entire life can't be enough to learn as much as he wants. Currently, he is learning computer science at Epitech to get a master degree. He also launches his idea with a friend, Swallify and hopes to work on it during holidays. His current passion is Machine Learning, he really wants to work there later and will give his best as in everything he starts. To achieve this he is currently following online courses. You can find him in Nice drinking coffee at his window or maybe around the world because traveling is also one of the things he loves. With that, you can get new perspectives and be more open-minded. I think he really wants to speak with you so don't be afraid and email him!",
     "location": {
       "address": "Place Massena",
       "postalCode": "06300",
@@ -28,7 +28,6 @@
       "position": "Founder",
       "website": "https://swallify.com",
       "startDate": "2017-03-01",
-      "endDate": "2017-08-01",
       "summary": "Swallify is a platform which gathers feeds from many social networks and displays them in a nice and beautiful way. Perfect for any events or presentation on a TV. There are multiple features like a random picker for contest but also a scoring system if you want to plan a sort of contest with your public",
       "highlights": [
         "Leading abilities, search for investor and gain marketing skills",
@@ -40,8 +39,8 @@
       "company": "OhMyGeorge",
       "position": "Fullstack Intern",
       "website": "ohmygeorge.com",
-      "startDate": "2016-10-01",
-      "endDate": "2017-01-01",
+      "startDate": "2016-10",
+      "endDate": "2017-01",
       "summary": "During this Internship, I learn a lot of new things about agile dev, life in a startup, marketing. I also gain skills in new languages (nodejs, meteor). I help to make the frontend of the mobile app but also the backend (API, authentification server). ",
       "highlights": [
         "During my spare time I made a dashboard to help the marketing team and give a better visibility of the user action - https://github.com/ethanquix/omg_dashboard"
@@ -68,15 +67,6 @@
       "endDate": "2020-09-01",
       "gpa": "",
       "courses": []
-    },
-    {
-      "institution": "Udacity",
-      "area": "Deep Learning",
-      "studyType": "Introduction",
-      "startDate": "2017-08-01",
-      "endDate": "2018-02-01",
-      "gpa": "",
-      "courses": []
     }
   ],
   "awards": [],
@@ -84,7 +74,7 @@
   "skills": [
     {
       "name": "Development",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "C / C++",
         "NodeJs",
@@ -93,7 +83,7 @@
     },
     {
       "name": "Team Work",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "Git",
         "Agile Dev (Jira / Trello / GitLab / Slack)",

@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Dimitri Wyzlic",
-    "label": "Programmer",
+    "label": "Programmer, Looking for an Internship",
     "picture": "",
     "email": "dimitriwyzlic@gmail.com",
     "phone": "(+33)762876958",
     "website": "http://dimitriwyzlic.com",
-    "summary": "I am in love with everything related to IA and Machine Learning. I hope to have an opportunity to be part of an Inria Research Team during my 6 month internship",
     "location": {
       "address": "Place Massena",
       "postalCode": "06300",
@@ -28,7 +27,6 @@
       "position": "Founder",
       "website": "https://swallify.com",
       "startDate": "2017-03-01",
-      "endDate": "2017-08-01",
       "summary": "Swallify is a platform which gathers feeds from many social networks and displays them in a nice and beautiful way. Perfect for any events or presentation on a TV. There are multiple features like a random picker for contest but also a scoring system if you want to plan a sort of contest with your public",
       "highlights": [
         "Leading abilities, search for investor and gain marketing skills",
@@ -68,15 +66,6 @@
       "endDate": "2020-09-01",
       "gpa": "",
       "courses": []
-    },
-    {
-      "institution": "Udacity",
-      "area": "Deep Learning",
-      "studyType": "Introduction",
-      "startDate": "2017-08-01",
-      "endDate": "2018-02-01",
-      "gpa": "",
-      "courses": []
     }
   ],
   "awards": [],
@@ -84,7 +73,7 @@
   "skills": [
     {
       "name": "Development",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "C / C++",
         "NodeJs",
@@ -93,7 +82,7 @@
     },
     {
       "name": "Team Work",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "Git",
         "Agile Dev (Jira / Trello / GitLab / Slack)",
